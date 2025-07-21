@@ -57,7 +57,7 @@ The project followed a structured data analysis workflow:
 
 ## 📷 Dashboard Preview
 
-*(Insert dashboard image here)*  
+  
 ![Dashboard Screenshot](Dashboard.png)
 
 ---
